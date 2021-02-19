@@ -1,2 +1,2 @@
 # sabad
-a multi vendor store 
+a multi vendor marketplace 
